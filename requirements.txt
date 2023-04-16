@@ -21,3 +21,8 @@ pickle5>=0.0.12
 pandas>=2.0.0
 imblearn==0.0
 scikit_learn==1.2.2
+flask
+joblib
+
+
+streamlit
